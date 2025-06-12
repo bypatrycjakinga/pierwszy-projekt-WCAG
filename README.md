@@ -1,1 +1,1 @@
-# pierwszy-projekt-WCAG
+# pierwszy-projekt
